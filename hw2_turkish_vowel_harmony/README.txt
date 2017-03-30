@@ -1,0 +1,4 @@
+-output.txt file gives what homework wants.
+-output_words.txt file gives detailed information about every word and their harmony status
+-output_words.txt file is empty as due to its file size.
+-Need to change 'create_output_word_list' boolean variable as 'True' to fill output_words.txt file.
